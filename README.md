@@ -1,4 +1,4 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### ENCODER 8 TO 3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -57,8 +57,9 @@ module exp5(a, b, c, y0, y1, y2, y3, y4, y5, y6, y7);
 endmodule
 ```
 ```
-Developed by: S.Navadeep 
-RegisterNumber: 212224230180
+Developed by: Someshwar Kumar
+RegisterNumber: 24901231
+Date: 23/04/2025
 ```
 
 
